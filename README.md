@@ -13,15 +13,15 @@ Traditional methods of detecting fraud often rely on predefined rules or manual 
 ## Solution
 This project develops multiple machine learning models to detect fraudulent transactions in a dataset. The following steps were completed:
 
-Exploratory Data Analysis (EDA): Examined the dataset to understand the distribution of features and the imbalance between fraudulent and non-fraudulent transactions.
++ Exploratory Data Analysis (EDA): Examined the dataset to understand the distribution of features and the imbalance between fraudulent and non-fraudulent transactions.
 
-Logistic Regression Model: Built a generalized linear model for binary classification to predict whether a transaction is fraudulent.
++ Logistic Regression Model: Built a generalized linear model for binary classification to predict whether a transaction is fraudulent.
 
-Decision Tree Model: Created a decision tree to classify transactions, using the Rpart module in R.
++ Decision Tree Model: Created a decision tree to classify transactions, using the Rpart module in R.
 
-Neural Network: Developed a neural network model to classify transactions, considering the complexities of relationships between features.
++ Neural Network: Developed a neural network model to classify transactions, considering the complexities of relationships between features.
 
-Model Evaluation: Compared the performance of these models using metrics such as accuracy and the Receiver Operating Characteristic (ROC) curve.
++ Model Evaluation: Compared the performance of these models using metrics such as accuracy and the Receiver Operating Characteristic (ROC) curve.
 
 ## Results
 Logistic Regression: The logistic regression model provided a baseline accuracy and ROC curve for comparison.
