@@ -24,9 +24,9 @@ This project develops multiple machine learning models to detect fraudulent tran
 + Model Evaluation: Compared the performance of these models using metrics such as accuracy and the Receiver Operating Characteristic (ROC) curve.
 
 ## Results
-Logistic Regression: The logistic regression model provided a baseline accuracy and ROC curve for comparison.
-Decision Tree: The decision tree model offered better interpretability, allowing us to visualize the decision-making process for classifying transactions.
-Neural Network: The neural network model showed the highest accuracy but at the cost of increased training time and complexity.
++ Logistic Regression: The logistic regression model provided a baseline accuracy and ROC curve for comparison.
++ Decision Tree: The decision tree model offered better interpretability, allowing us to visualize the decision-making process for classifying transactions.
++ Neural Network: The neural network model showed the highest accuracy but at the cost of increased training time and complexity.
 The models were evaluated on a test dataset, and their performances were compared using ROC curves. The neural network model demonstrated the best performance with the highest area under the curve (AUC), followed by the decision tree and logistic regression models.
 
 ## Summary
