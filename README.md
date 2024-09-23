@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection
 
-## Abstract/Introduction
+## Abstract
 
 This project aims to leverage predictive data analytics to detect fraudulent credit card transactions. By employing various machine learning techniques such as logistic regression, decision trees, and neural networks, this project seeks to build models that can effectively identify fraudulent transactions within a dataset. The project is implemented in R, taking advantage of its robust statistical and visualization libraries.
 
